@@ -21,7 +21,7 @@ Be The Hero
 
 <hr />
 
-### :muscle: Project
+## :muscle: Project
 
 <b>Be the Hero</b> is a project that aims to help, <b>financially</b>, a NGO, helping it to remain.
 
