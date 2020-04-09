@@ -9,8 +9,8 @@ Be The Hero
 <p align="center">The repository of a web app where NGOs and their incidents are registered and the mobile app where all incidents are listed, built in a OmniStack Week</p>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <a href="https://opensource.org/licenses/gpl-license">
+    <img src="https://img.shields.io/badge/License-GPL-green" alt="License GPL">
   </a>
 </p>
 
