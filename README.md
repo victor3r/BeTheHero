@@ -46,19 +46,19 @@ This app features all the latest tools and practices in mobile development!
 ### Getting started with the backend server
 
 1. Move yourself to the backend folder: `cd backend`
-2. Run `npm` to install dependencies<br />
+2. Run `npm install` to install dependencies<br />
 4. Run `npm start` to start the server
 
 ### Getting started with the frontend app
 
 1. Move yourself to the frontend folder: `cd frontend`
-2. Run `npm` to install dependencies<br />
+2. Run `npm install` to install dependencies<br />
 3. Run `npm start` to start the web application
 
 ### Getting started with the mobile app
 
 1. Move yourself to the mobile folder: `cd mobile`
-2. Run `npm` to install dependencies<br />
+2. Run `npm install` to install dependencies<br />
 3. Run `npm start` to start the mobile app
 4. Download the [Expo](https://expo.io/learn) app and scan the QR code that appears on the screen
 
