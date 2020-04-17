@@ -10,7 +10,7 @@ Be The Hero
 
 <p align="center">
   <a href="https://opensource.org/licenses/gpl-license">
-    <img src="https://img.shields.io/badge/License-GPL-green" alt="License GPL">
+    <img src="https://img.shields.io/badge/License-GPL-green.svg" alt="License GPL">
   </a>
 </p>
 
