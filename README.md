@@ -36,7 +36,9 @@ This app features all the latest tools and practices in mobile development!
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — An asynchronous, open source, event-driven JavaScript interpreter
 - 📄 **SQLite** — A C language library that implements an embedded SQL database
+- 📟 **Celebrate** — A joi validation middleware for Express 
 - :iphone: **Expo** —  A tool used in mobile development with React Native that allows easy access to the device’s native API’s
+- 🧪 **Jest** — A JavaScript testing framework
 
 ## 🚀 Getting started
 
