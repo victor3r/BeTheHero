@@ -6,7 +6,7 @@
 Be The Hero
 </h1>
 
-<p align="center">The repository of a web app where NGOs and their incidents are registered and the mobile app where all incidents are listed, built in an OmniStack Week</p>
+<p align="center">The monorepo of a web app where NGOs and their incidents are registered and the mobile app where all incidents are listed, built in an OmniStack Week</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/gpl-license">
