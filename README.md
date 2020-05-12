@@ -49,7 +49,7 @@ This app features all the latest tools and practices in mobile development!
 
 1. Move yourself to the backend folder: `cd backend`
 2. Run `npm install` to install dependencies<br />
-4. Run `npm start` to start the server
+4. Run `npm dev` to start the server
 
 ### Getting started with the frontend app
 
